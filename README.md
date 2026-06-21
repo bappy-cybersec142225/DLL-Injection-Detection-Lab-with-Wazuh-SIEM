@@ -1,4 +1,5 @@
-![Uploading SOC LAB.png…]()
+<img width="1280" height="714" alt="SOC LAB" src="https://github.com/user-attachments/assets/96d952af-e53b-47bc-a6ab-fa7f994b0c63" />
+
 
 # 🛡️ DLL Injection Detection Lab with Wazuh SIEM
 ## Threat Monitoring, Detection Engineering, and Incident Investigation for MITRE ATT&CK T1055
